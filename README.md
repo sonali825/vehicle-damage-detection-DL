@@ -107,16 +107,6 @@ vehicle-damage-detection/
 
 ---
 
-# 🚀 Future Improvements
-
-- Add side-view damage detection
-- Improve accuracy with larger datasets
-- Deploy on cloud platforms
-- Add damage severity estimation
-- Generate repair cost predictions
-
----
-
 # 📌 Note
 
 This project was built for learning and educational purposes in the field of Computer Vision and Deep Learning.
